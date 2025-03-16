@@ -1,0 +1,22 @@
+Escreva um algoritmo que leia o raio de um círculo e mostre na tela a sua área e o seu perímetro.
+Use as fórmulas: A = πr² e P = 2πr.
+
+Exemplo de Entrada	
+1) 2
+2) 3
+3) 1.5
+
+Exemplo da Saída
+1)
+A = 12.57
+P = 12.57
+
+2)
+A = 28.27
+P = 18.85
+
+3)
+A = 7.07
+P = 9.42
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

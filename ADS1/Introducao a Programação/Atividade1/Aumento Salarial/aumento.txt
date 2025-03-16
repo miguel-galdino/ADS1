@@ -1,0 +1,29 @@
+Escreva um algoritmo que calcule o aumento de um salário. O algoritmo deve solicitar o valor do salário e a porcentagem de aumento e exibir o valor do aumento e do novo salário. 
+
+Exemplo de Entrada	
+1)
+2500
+10
+
+2)
+5000
+12.5
+
+3)
+6525.50
+7
+
+Exemplo da Saída
+1)
+Aumento = 250.00
+Novo salario = 2750.00
+
+2)
+Aumento = 625.00
+Novo salario = 5625.00
+
+3)
+Aumento = 456.79
+Novo salario = 6982.29
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

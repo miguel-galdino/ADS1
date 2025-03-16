@@ -1,0 +1,30 @@
+Escreva um algoritmo que calcule o desconto de um produto. 
+O algoritmo deve solicitar o valor do produto e a porcentagem de desconto e exibir o valor do desconto e do novo valor do produto. 
+
+Exemplo de Entrada	
+1)
+150
+7.5
+
+2)
+2990
+5
+
+3)
+455.60
+10
+
+Exemplo da Saída
+1)
+Desconto = 11.25
+Novo valor = 138.75
+
+2)
+Desconto = 149.50
+Novo valor = 2840.50
+
+3)
+Desconto = 45.56
+Novo valor = 410.04
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

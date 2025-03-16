@@ -1,0 +1,24 @@
+Um caixa eletrônico opera somente com cédulas de 100, 50, 20, 10  e 5 reais. 
+Faça um algoritmo que leia um valor a sacar e calcule e mostre o menor número de cédulas de cada tipo no qual o valor pode ser decomposto. 
+Considere que o sistema admite somente valores múltiplos de 5. 
+
+Exemplo de Entrada	
+1) 235
+2)600
+
+Exemplo da Saída
+1) 
+2 cédulas de 100
+0 cédulas de 50
+1 cédulas de 20
+1 cédulas de 10
+1 cédulas de 5
+
+2)
+6 cédulas de 100
+0 cédulas de 50
+0 cédulas de 20
+1 cédulas de 10
+0 cédulas de 5
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

@@ -1,0 +1,36 @@
+Faça um algoritmo que calcule o valor acumulado de uma poupança programada. 
+O programa deve receber o valor da aplicação mensal, a taxa de juros e o número de meses e calcular e exibir o montante final utilizando a fórmula:
+
+M=P(1+i)n−1i
+
+Onde:
+
+M é o montate final,
+i é a taxa de juros mensal,
+P é o valor da aplicação mensal,
+n é o número de meses.
+
+ 
+
+Exemplo de Entrada	
+1)
+100
+0.5
+24
+
+2)
+200
+0.5
+24
+
+3)
+300
+0.72
+18
+
+Exemplo de Saída
+1)Valor acumulado ao final de 24 meses: R$ 2543.19
+2)Valor acumulado ao final de 24 meses: R$ 5086.39
+3)Valor acumulado ao final de 18 meses: R$ 5743.52
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

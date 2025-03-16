@@ -1,0 +1,25 @@
+Escreva um algoritmo para ler o salário de um funcionário e aumentá-lo em 20%. 
+Após o aumento, desconte 10% de impostos. Imprima o salário inicial, o salário com o aumento e o salário líquido (com desconto). 
+
+Exemplo de Entrada	
+1) 2000
+2) 3999
+3)4895.50
+
+Exemplo da Saída
+1)
+Salario inicial = 2000.00
+Salario com aumento = 2400.00
+Salario liquido = 2160.00
+
+2)
+Salario inicial = 3999.00
+Salario com aumento = 4798.80
+Salario liquido = 4318.92
+
+3)
+Salario inicial = 4895.50
+Salario com aumento = 5874.60
+Salario liquido = 5287.14
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.
