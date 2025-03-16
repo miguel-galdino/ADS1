@@ -1,6 +1,5 @@
 # ADS1
-- Advanced Technology Course in System Analysis and Development
-Instituto Federal de Santa Catarina
+- Advanced Technology Course in System Analysis and Development in Instituto Federal de Santa Catarina
 
 PT -Vou deixar nesse repositório a solução dos problemas apresentados pela faculdade para registro.
 
