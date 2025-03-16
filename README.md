@@ -1,2 +1,3 @@
 # ADS1
-Advanced Technologi Curse of Analistic and Developer Sistem 1/6
+Advanced Technology Course in System Analysis and Development
+- Instituto Federal de Santa Catarina 
