@@ -1,0 +1,26 @@
+Faça um algoritmo que leia três notas de uma aluno, calcula e mostra a média e depois verifica se o aluno está aprovado ou reprovado. Aprovado média maior ou igual a 6, caso contrário reprovado.
+
+Exemplo de Entrada	
+1) 6 8 7.9
+2) 4 5 3.5
+3) 8.2 7 5
+4) 5 7 5.9
+
+Exemplo da Saída
+1)
+Média: 7.30
+Aprovado
+
+2)
+Média: 4.17
+Reprovado
+
+3)
+Média: 6.73
+Aprovado
+
+4)
+Média: 5.97
+Reprovado
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

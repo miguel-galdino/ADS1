@@ -1,0 +1,23 @@
+Crie um algoritmo que leia a idade de um nadador e informe a categoria em que o mesmo se enquadra. A categoria é definida pela idade, a partir das seguintes faixas:
+
+Infantil – 0 a 10 anos
+
+Juvenil – 11 a 17 anos
+
+Adulto – 18 a 64 anos
+
+Sênior – 65 ou mais anos
+
+Exemplo de Entrada	
+1) 9
+2) 15
+3) 43
+4) 75
+
+Exemplo da Saída
+1) Infantil
+2) Juvenil
+3) Adulto
+4) Sênior
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

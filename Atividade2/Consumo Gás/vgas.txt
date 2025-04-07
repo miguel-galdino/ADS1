@@ -1,0 +1,17 @@
+Faça um algoritmo que leia o consumo de gás de um condomínio e calcule o valor a pagar a partir da fórmula a seguir (c corresponde ao consumo).
+
+V(c) = {c≤10 = 15 * c || c>10 = 15 * c +20
+
+Exemplo de Entrada	
+1) 9
+2) 15
+3) 5
+4) 13
+
+Exemplo da Saída
+1) Valor a pagar: R$ 135.00
+2) Valor a pagar: R$ 245.00
+3) Valor a pagar: R$ 75.00
+4) Valor a pagar: R$ 215.00
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.
