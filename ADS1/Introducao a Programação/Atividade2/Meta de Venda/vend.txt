@@ -1,0 +1,15 @@
+Faça um algoritmo que leia o valor de venda de um vendedor no mês. Se o valor de venda for maior do que R$ 30.000,00, exiba a mensagem: "Parabéns, você superou a meta do mês!".
+
+Exemplo de Entrada	
+1) 50000
+2) 25000
+3) 44499.99
+4) 29999.99
+
+Exemplo da Saída
+1) Parabéns, você superou a meta do mês!
+2)
+3) Parabéns, você superou a meta do mês!
+4) 
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

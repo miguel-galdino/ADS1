@@ -1,0 +1,34 @@
+Escreva um algoritmo que permita validar uma data fornecida. O algoritmo deve considerar os dias, meses e anos, incluindo a verificação para anos bissextos. O programa deve solicitar ao usuário que insira um dia, um mês e um ano.
+
+A validação deve seguir as seguintes regras:
+
+O ano deve ser maior ou igual a 1.
+O mês deve estar entre 1 (janeiro) e 12 (dezembro).
+Para o mês de fevereiro:
+Se o ano é bissexto, o dia deve estar entre 1 e 29.
+Se o ano não é bissexto, o dia deve estar entre 1 e 28.
+Para os meses de abril, junho, setembro e novembro, o dia deve estar entre 1 e 30.
+Para os meses de janeiro, março, maio, julho, agosto, outubro e dezembro, o dia deve estar entre 1 e 31.
+O programa deve imprimir se a data é válida ou inválida com a seguinte formatação:
+
+"A data DD/MM/AAAA é válida." ou "A data DD/MM/AAAA é inválida."
+
+Observações:
+
+Um ano é bissexto se for divisível por 4, mas não por 100, ou, se for divisível por 400.
+Para imprimir no formato DD/MM/AAAA, use "A data %02d/%02d/%04d é ..." no printf.
+Exemplos:
+
+Exemplo de Entrada	
+1) 10 7 2000	
+2) 30 2 2000	
+3) 30 1 0	
+4) 30 13 2000	
+
+Exemplo da Saída
+1) A data 10/07/2000 é válida
+2) A data 30/02/2000 é inválida
+3) A data 30/01/0000 é inválida
+4) A data 30/13/2000 é inválida
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

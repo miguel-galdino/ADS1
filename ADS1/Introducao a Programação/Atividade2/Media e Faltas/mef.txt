@@ -1,0 +1,26 @@
+Para passar de fase na UC Programação, o aluno precisa ter média final maior ou igual a 6 e número de faltas menor do que 21. Faça um algoritmo que leia 3 notas obtidas por um aluno na UC Programação e o número de faltas, e calcule e mostre a média final. Após isso, o algoritmo deve informar se o aluno está aprovado ou reprovado. Caso o aluno esteja reprovado, o algoritmo deve informar se a reprovação foi por média e/ou por faltas.
+
+Exemplo de Entrada	
+1) 7 5 8 15
+2) 6 7 6 21
+3) 4 6 5 10
+4) 2 4 1 40
+
+Exemplo da Saída
+1)
+Média final: 6.67
+Aprovado
+
+2)
+Média final: 6.33
+Reprovado por falta
+
+3)
+Média final: 5.00
+Reprovado por média
+
+4)
+Média final: 2.33
+Reprovado por média e falta
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

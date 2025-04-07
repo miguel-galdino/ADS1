@@ -1,0 +1,16 @@
+Escreva uma algoritmo para ler o dia e o mês de nascimento de uma pessoa e informar o seu signo. 
+Use dois inteiros para ler os valores: uma para o dia e outra para o mês.
+
+Exemplos:
+
+Exemplo de Entrada	
+1) 10 7	
+2) 24 1	
+3) 29 11	
+
+Exemplo da Saída
+1) Câncer
+2) Aquário
+3) Sagitário
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

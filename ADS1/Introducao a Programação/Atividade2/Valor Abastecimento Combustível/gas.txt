@@ -1,0 +1,13 @@
+Faça um algoritmo que determine quanto será gasto para encher o tanque de um veículo. Considere que o preço do etanol é de R$ 5,99, o preço do diesel é de R$ 6,589 e o preço da gasolina é de R$ 6,99. O algoritmo deve ler a capacidade do tanque (em litros) e o tipo de combustível (E - Etanol, D - Diesel ou G - Gasolina) e exibir o valor gasto para encher o tanque do veículo.
+
+Exemplo de Entrada	
+1) 40 E
+2) 35 G
+3) 60 D
+
+Exemplo da Saída
+1) Valor gasto: R$ 239.60
+2) Valor gasto: R$ 244.65
+3) Valor gasto: R$ 395.40
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.
