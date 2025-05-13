@@ -1,0 +1,8 @@
+Sem usar o comando if, calcule a soma de todos os números pares entre 1 e 1000.
+
+Exemplo de Entrada)
+
+Exemplo da Saída)
+Soma: 250500
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

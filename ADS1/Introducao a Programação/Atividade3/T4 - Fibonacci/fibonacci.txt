@@ -1,0 +1,19 @@
+Faça um algoritmo que imprima os N primeiros números da sequência de Fibonacci. Essa sequência começa com 0 e 1, e cada número seguinte é a soma dos sois anteriores.
+
+0, 1, 1, 2, 3, 5, 8, 13, 21,...
+
+Exemplos:
+
+Exemplo de Entrada	
+1) 5	
+2) 2	
+3) 1	
+4) 3
+
+Exemplo de Saída
+1) 0 1 1 2 3
+2) 0 1
+3) 0
+4) 0 1 1
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.

@@ -1,0 +1,8 @@
+Escreva um algoritmo que imprima os números inteiros de 10 a 45.
+
+Exemplo de Entrada)
+	
+Exemplo da Saída)
+10 11 12 13...45
+
+Atenção: A entrada e a saída devem seguir o formato dos exemplos fornecidos.
